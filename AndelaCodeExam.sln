@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AndelaCodeExam", "AndelaCodeExam\AndelaCodeExam.csproj", "{F9E0EF1F-541F-498C-B0F9-A6A68592DED5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndelaCodeExam.Tests", "AndelaCodeExam.Tests\AndelaCodeExam.Tests.csproj", "{DA0671A3-1679-4BBE-AD8B-E0E2A65D4053}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9E0EF1F-541F-498C-B0F9-A6A68592DED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9E0EF1F-541F-498C-B0F9-A6A68592DED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9E0EF1F-541F-498C-B0F9-A6A68592DED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9E0EF1F-541F-498C-B0F9-A6A68592DED5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA0671A3-1679-4BBE-AD8B-E0E2A65D4053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0671A3-1679-4BBE-AD8B-E0E2A65D4053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0671A3-1679-4BBE-AD8B-E0E2A65D4053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0671A3-1679-4BBE-AD8B-E0E2A65D4053}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B242E7C-EF2D-4BE2-B0E6-332C91013AD0}
+	EndGlobalSection
+EndGlobal
